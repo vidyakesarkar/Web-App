@@ -1,5 +1,5 @@
 import React from 'react';
-import './PartSelection.css'; // Ensure correct path to CSS
+import '../styles/PartSelection.css'; // Ensure correct path to CSS
 
 const parts = [
   { id: 1, name: 'Plants', image: '/images/plant.png' },

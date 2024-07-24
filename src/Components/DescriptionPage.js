@@ -1,5 +1,5 @@
 import React from 'react';
-import './DescriptionPage.css'; // Ensure correct path to CSS
+import '../styles/DescriptionPage.css'; // Ensure correct path to CSS
 
 function DescriptionPage({ onNext }) {
   return (
